@@ -1,6 +1,6 @@
 # NEST JS CRUD (GraphQL) with Authentication Flow. 
 **Implemented December 2022.** 
-* This project is based on the videos of [MariusJS](https://www.youtube.com/@mariusespejo).
+* This project is based on the videos of [Marius Espejo](https://www.youtube.com/@mariusespejo).
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
